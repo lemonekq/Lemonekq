@@ -10,4 +10,8 @@
   <img alt="Visual studio 2021 - 2022" width="auto" height="45px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
   <img alt="Visual studio code 2021 - 2022" width="auto" height="45px" src="https://spece.it/wp-content/uploads/2020/03/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
   <img alt="Sublime text 2019 - 2022" width="auto" height="45px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/>
+  Known languages<br>
+  <img alt="JavaScript" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
+  <img alt="Html5" width="auto" height="45px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
+  <img alt="Css3" width="auto" height="45px" src="https://www.w3.org/html/logo/downloads/CSS3_Badge_512.png"/>
 </p>
