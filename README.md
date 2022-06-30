@@ -14,10 +14,10 @@
   <img alt="JavaScript" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
   <img alt="Html5" width="auto" height="45px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
   <img alt="Css3" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/2048px-Devicon-css3-plain.svg.png"/>
-  <img alt="Batch (windows scripts)" width="auto" height="45px">
+  <img alt="Batch (windows scripts)" src="https://cdn-icons-png.flaticon.com/512/1998/1998519.png" width="auto" height="45px">
   <img alt="VisualBasic" width="auto" height="45px" src="https://cdn.pixabay.com/photo/2015/08/25/13/21/visual-basic-906838_1280.png"/>
   <img alt="C#" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png"/>
   <img alt="Java" width="auto" height="45px" src="https://impicode.pl/wp-content/uploads/2019/11/java-2.png"/>
-  <img alt="Autohotkey scripting language" width="auto" height="45px" src="https://i.imgur.com/tjPOPhB.png"/>C_Programming_Language.svg.png"/>
+  <img alt="Autohotkey scripting language" width="auto" height="45px" src="https://i.imgur.com/tjPOPhB.png"/>
   <img alt="CPP" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 </p>
