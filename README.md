@@ -18,8 +18,6 @@
   <img alt="VisualBasic" width="auto" height="45px" src="https://cdn.pixabay.com/photo/2015/08/25/13/21/visual-basic-906838_1280.png"/>
   <img alt="C#" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png"/>
   <img alt="Java" width="auto" height="45px" src="https://impicode.pl/wp-content/uploads/2019/11/java-2.png"/>
-  <img alt="Assembly (NASM)" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/AssemblyScript_logo_2020.svg/2048px-AssemblyScript_logo_2020.svg.png"/>
-  <img alt="Autohotkey scripting language" width="auto" height="45px" src="https://i.imgur.com/tjPOPhB.png"/>
-  <img alt="C" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"/>
+  <img alt="Autohotkey scripting language" width="auto" height="45px" src="https://i.imgur.com/tjPOPhB.png"/>C_Programming_Language.svg.png"/>
   <img alt="CPP" width="auto" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 </p>
